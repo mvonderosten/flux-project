@@ -33,7 +33,7 @@ export const Layout = () => {
 						<Route path="/people-1" component={PeopleOne} />
 						<Route path="/planets-1/" component={PlanetsOne} />
 						<Route path="/single/:theid" component={Single} />
-						<Route render={() => <h1>Not found!</h1>} />
+						<Route render={() => <h1>Not in This Galaxy, Pal!</h1>} />
 					</Switch>
 					<Footer />
 				</ScrollToTop>
