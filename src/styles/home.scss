@@ -66,6 +66,25 @@ a:link {
 
 }
 
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: #ffff00;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ffff00;
+}
+
+/* selected link */
+a:active {
+  color: #ffff00;
+}
+
 .card {
 
 background-image: url("https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/341080/910/606/m2/fpnw/wm1/zxhv6io2fgmn6civz6hvtdekf8kehazzyuxleapmjgwnu9rwlmxykpyd4hukadfe-.jpg?1423159322&s=352455e2e986f115ae367179923a73d4");
